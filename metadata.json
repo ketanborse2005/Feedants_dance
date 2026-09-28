@@ -1,0 +1,6 @@
+{
+  "name": "Feedants Classical Dance Competition",
+  "description": "Full-Stack Competition Details Screen for Feedants with dynamic real-time states, atomic spot reservation, multi-user simulation, and video submissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
